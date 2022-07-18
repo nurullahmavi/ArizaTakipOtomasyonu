@@ -1,0 +1,6 @@
+C:\Users\mavinetcom\Desktop\ArizaTakipOtomasyonu\ArizaTakipOtomasyonu\ArizaTakip.Data\bin\Debug\ArizaTakip.Data.dll
+C:\Users\mavinetcom\Desktop\ArizaTakipOtomasyonu\ArizaTakipOtomasyonu\ArizaTakip.Data\bin\Debug\ArizaTakip.Data.pdb
+C:\Users\mavinetcom\Desktop\ArizaTakipOtomasyonu\ArizaTakipOtomasyonu\ArizaTakip.Data\obj\Debug\ArizaTakip.Data.csprojAssemblyReference.cache
+C:\Users\mavinetcom\Desktop\ArizaTakipOtomasyonu\ArizaTakipOtomasyonu\ArizaTakip.Data\obj\Debug\ArizaTakip.Data.csproj.CoreCompileInputs.cache
+C:\Users\mavinetcom\Desktop\ArizaTakipOtomasyonu\ArizaTakipOtomasyonu\ArizaTakip.Data\obj\Debug\ArizaTakip.Data.dll
+C:\Users\mavinetcom\Desktop\ArizaTakipOtomasyonu\ArizaTakipOtomasyonu\ArizaTakip.Data\obj\Debug\ArizaTakip.Data.pdb
